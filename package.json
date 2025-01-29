@@ -1,0 +1,24 @@
+{
+  "name": "assignment3-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaszakir/Blockchain1Assignment3-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaszakir/Blockchain1Assignment3-2/issues"
+  },
+  "homepage": "https://github.com/diaszakir/Blockchain1Assignment3-2#readme",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  }
+}
