@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+## Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
@@ -12,7 +12,7 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 
-## Assignment 3 - Part 2: Smart Contract Testing with Hardhat
+# Assignment 3 - Part 2: Smart Contract Testing with Hardhat
 
 ### **Blockchain Technologies 1**
 
@@ -72,6 +72,10 @@ npm install
 ```sh
 npx hardhat test
 ```
+
+## Screenchot
+![image](https://github.com/user-attachments/assets/efba7a33-5bc0-4043-a527-67c11159dee1)
+
 
 ### **References**
 - [Hardhat Tutorial](https://hardhat.org/tutorial)
