@@ -59,7 +59,7 @@ npm install
 npx hardhat test
 ```
 
-## Screenchot
+## Screenshot
 ![image](https://github.com/user-attachments/assets/efba7a33-5bc0-4043-a527-67c11159dee1)
 
 
